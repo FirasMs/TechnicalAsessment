@@ -3,5 +3,10 @@
 
 var animal;
 var addKey;
-
+function addkey (animal){
+    animal.name;
+    animal.weight;
+    animal.assign(name,weight);
+    return animal
+}
 

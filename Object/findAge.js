@@ -4,4 +4,6 @@
 var animal;
 var findAge;
 
-
+function findAge(animal){
+    animal
+}
